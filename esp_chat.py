@@ -1,3 +1,5 @@
+# pip install pyserial
+
 import tkinter as tk
 from tkinter import scrolledtext, messagebox
 from tkinter import font as tkfont
